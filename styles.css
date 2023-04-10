@@ -38,6 +38,8 @@
     width: 600px;
    margin-left:-100px; 
    margin-right:100px;
+ position: relative;
+   top:13px;
 }
 .rightbox{
     height:125px ;
